@@ -32,12 +32,12 @@ print(dataset_sc.keys())
 ```
 
 ## Contoh
-English
-When Ebola broke out in March 2014, Pardis Sabeti and her team set out to sequence the virus’s genome, to learn how it was mutating and spreading.
-“We worked openly, we shared, and we collaborated,” Sabeti says.
-“We don’t want the world to be defined by a virus, but by the unity of millions of hearts and minds.”
+**English**  
+When Ebola broke out in March 2014, Pardis Sabeti and her team set out to sequence the virus’s genome, to learn how it was mutating and spreading.  
+“We worked openly, we shared, and we collaborated,” Sabeti says.  
+“We don’t want the world to be defined by a virus, but by the unity of millions of hearts and minds.”  
 
-Indonesian
-Ketika Ebola meletus pada Maret 2014, Pardis Sabeti dan timnya berusaha mengurutkan genom virus tersebut, untuk mempelajari bagaimana virus itu bermutasi dan menyebar.
-“Kami bekerja terbuka, kami berbagi, dan kami berkolaborasi,” kata Sabeti.
-“Kami tidak ingin dunia didefinisikan oleh sebuah virus, melainkan oleh persatuan jutaan hati dan pikiran.”
+**Indonesian**  
+Ketika Ebola meletus pada Maret 2014, Pardis Sabeti dan timnya berusaha mengurutkan genom virus tersebut, untuk mempelajari bagaimana virus itu bermutasi dan menyebar.  
+“Kami bekerja terbuka, kami berbagi, dan kami berkolaborasi,” kata Sabeti.  
+“Kami tidak ingin dunia didefinisikan oleh sebuah virus, melainkan oleh persatuan jutaan hati dan pikiran.”  
